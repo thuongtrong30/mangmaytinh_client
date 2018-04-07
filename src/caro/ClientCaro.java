@@ -10,10 +10,13 @@ import java.awt.event.ActionListener;
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -38,7 +41,7 @@ public class ClientCaro extends JFrame implements ActionListener{
                 
           try
           {
-            //String ip = JOptionPane.showInputDialog(null, "Nhập IP máy chủ"); 
+            String name = JOptionPane.showInputDialog(null, "Nhập tên!!"); 
              new ClientCaro(); 
               sB = new Socket("192.168.3.109",9000);  
             BufferedReader nhan = new BufferedReader(
@@ -51,6 +54,13 @@ public class ClientCaro extends JFrame implements ActionListener{
                 DataInputStream mInput = new DataInputStream(sB.getInputStream());
                 BanCo bc = new BanCo(output);
                 bc.setVisible(true);
+                bc.setTitle(name);
+                for(int i = 0 ; i < 3 ; i++){
+                    for(int j = 0; j <3 ; j++){
+                        bc.truyen(i,j,Color.white);
+                    }
+                }
+                output.writeUTF("n"+name);
                 th = new Thread(){
                     public void run(){
                         try {
@@ -60,7 +70,7 @@ public class ClientCaro extends JFrame implements ActionListener{
                                     String[] go = input.substring(1).split(" ");
                                     int hang = Integer.parseInt(go[0]);
                                     int cot = Integer.parseInt(go[1]);
-                                    bc.truyen(hang,cot,"O");
+                                    bc.truyen(hang,cot,Color.green);
                       
                                     
                                 }
@@ -68,22 +78,61 @@ public class ClientCaro extends JFrame implements ActionListener{
                                     String[] go = input.substring(1).split(" ");
                                     int hang = Integer.parseInt(go[0]);
                                     int cot = Integer.parseInt(go[1]);
-                                    bc.truyen(hang,cot,"X");
+                                    bc.truyen(hang,cot,Color.red);
                                 }
                                 if(input.charAt(0)=='w'){
-                                    System.out.println("Winner");
-                                    System.exit(0);
-                                }
-                                if(input.charAt(0)=='l'){
-                                    System.out.println("Loser");
-                                    System.exit(0);
-                                }
-                                if(input.charAt(0)=='o'){
+                                    JOptionPane.showMessageDialog(null,"Thắng");
                                     for(int i = 0 ; i < 3 ; i++){
                                         for(int j = 0; j <3 ; j++){
-                                            bc.truyen(i,j,"");
+                                            bc.truyen(i,j,Color.white);
                                         }
                                     }
+                                }
+                                if(input.charAt(0)=='l'){
+                                    JOptionPane.showMessageDialog(null,"Thua");
+                                    for(int i = 0 ; i < 3 ; i++){
+                                        for(int j = 0; j <3 ; j++){
+                                            bc.truyen(i,j,Color.white);
+                                        }
+                                    }
+                                }
+                                if(input.charAt(0)=='o'){
+                                    JOptionPane.showMessageDialog(null, "Đối thủ đã out");
+                                    for(int i = 0 ; i < 3 ; i++){
+                                        for(int j = 0; j <3 ; j++){
+                                            bc.truyen(i,j,Color.white);
+                                        }
+                                    }
+                                    bc.choi(true);
+                                }
+                                if(input.charAt(0)=='d'){
+                                    JOptionPane.showMessageDialog(null, "Hòa!Ván mới!!");
+                                    for(int i = 0 ; i < 3 ; i++){
+                                        for(int j = 0; j <3 ; j++){
+                                            bc.truyen(i,j,Color.white);
+                                        }
+                                    }
+                                }
+                                if(input.charAt(0)=='m'){
+                                    String s = input.substring(1);
+                                    bc.addtext(s);
+                                }
+                                if(input.charAt(0)=='n'){
+                                    bc.setTitle(name+" vs "+input.substring(1));
+                                    bc.choi(false);
+                                }
+                                if(input.charAt(0)=='t'){
+                                    th = new Thread(){
+                                        public void chay() throws InterruptedException{
+                                            try {
+                                                System.out.println("Dang nam trong thread bat dau t"); 
+                                                sleep(10);
+                                                output.writeUTF("l");
+                                            } catch (IOException ex) {
+                                                Logger.getLogger(ClientCaro.class.getName()).log(Level.SEVERE, null, ex);
+                                            }
+                                    }
+                                    };
                                 }
                             }
                         } catch (Exception e) {
