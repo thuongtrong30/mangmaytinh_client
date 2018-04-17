@@ -133,6 +133,7 @@ public class ClientCaro extends JFrame implements ActionListener{
                                             }
                                     }
                                     };
+                                    th.start();
                                 }
                             }
                         } catch (Exception e) {
@@ -144,9 +145,6 @@ public class ClientCaro extends JFrame implements ActionListener{
             else {
                 System.out.println("Phòng đầy!");
             }
-            
-            
-           
           }
            catch (Exception e) { // Xử lý ngoại lệ
              e.printStackTrace();                  
