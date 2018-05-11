@@ -43,7 +43,7 @@ public class ClientCaro extends JFrame implements ActionListener{
           {
             String name = JOptionPane.showInputDialog(null, "Nhập tên!!"); 
              new ClientCaro(); 
-              sB = new Socket("192.168.3.109",9000);  
+              sB = new Socket("192.168.14.58",9000);  
             BufferedReader nhan = new BufferedReader(
                   new InputStreamReader(sB.getInputStream())); 
             
@@ -120,20 +120,6 @@ public class ClientCaro extends JFrame implements ActionListener{
                                 if(input.charAt(0)=='n'){
                                     bc.setTitle(name+" vs "+input.substring(1));
                                     bc.choi(false);
-                                }
-                                if(input.charAt(0)=='t'){
-                                    th = new Thread(){
-                                        public void chay() throws InterruptedException{
-                                            try {
-                                                System.out.println("Dang nam trong thread bat dau t"); 
-                                                sleep(10);
-                                                output.writeUTF("l");
-                                            } catch (IOException ex) {
-                                                Logger.getLogger(ClientCaro.class.getName()).log(Level.SEVERE, null, ex);
-                                            }
-                                    }
-                                    };
-                                    th.start();
                                 }
                             }
                         } catch (Exception e) {
