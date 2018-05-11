@@ -43,7 +43,7 @@ public class ClientCaro extends JFrame implements ActionListener{
           {
             String name = JOptionPane.showInputDialog(null, "Nhập tên!!"); 
              new ClientCaro(); 
-              sB = new Socket("192.168.14.58",9000);  
+              sB = new Socket("127.0.0.1",9000);  
             BufferedReader nhan = new BufferedReader(
                   new InputStreamReader(sB.getInputStream())); 
             
@@ -55,8 +55,8 @@ public class ClientCaro extends JFrame implements ActionListener{
                 BanCo bc = new BanCo(output);
                 bc.setVisible(true);
                 bc.setTitle(name);
-                for(int i = 0 ; i < 3 ; i++){
-                    for(int j = 0; j <3 ; j++){
+                for(int i = 0 ; i < 10 ; i++){
+                    for(int j = 0; j <10 ; j++){
                         bc.truyen(i,j,Color.white);
                     }
                 }

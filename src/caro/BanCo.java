@@ -786,123 +786,6 @@ public class BanCo extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                                .addGroup(layout.createSequentialGroup()
-                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addComponent(btn21, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn22, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn23, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn24, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn25, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addComponent(btn11, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn12, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn13, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                            .addComponent(btn14, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn15, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addComponent(btn16, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addGap(10, 10, 10)
-                                            .addComponent(btn17, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addComponent(btn26, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn27, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addComponent(btn18, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn19, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn20, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addComponent(btn28, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn29, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn30, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                                .addGroup(layout.createSequentialGroup()
-                                    .addComponent(btn31, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(btn32, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(btn33, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(btn34, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                        .addComponent(btn35, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addComponent(btn45, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                            .addComponent(btn46, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn47, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn48, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                                .addGroup(layout.createSequentialGroup()
-                                    .addComponent(btn61, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(btn62, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                    .addComponent(btn63, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addGap(362, 362, 362)))
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(btn71, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn72, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn73, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn74, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn75, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                .addComponent(btn76, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn77, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn78, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn79, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                .addComponent(btn80, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(btn81, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn82, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn83, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn84, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn85, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn86, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn87, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn88, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn89, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                .addComponent(btn90, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 176, Short.MAX_VALUE)
-                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 248, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(layout.createSequentialGroup()
@@ -921,103 +804,241 @@ public class BanCo extends javax.swing.JFrame {
                                 .addComponent(btn7, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(btn8, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn9, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                .addComponent(btn9, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(btn10, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addGap(0, 0, Short.MAX_VALUE))
                             .addGroup(layout.createSequentialGroup()
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addComponent(btn36, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn37, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn38, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn39, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                            .addComponent(btn40, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                        .addGroup(layout.createSequentialGroup()
-                                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                                .addGroup(layout.createSequentialGroup()
-                                                    .addComponent(btn41, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                    .addComponent(btn42, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                    .addComponent(btn43, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                                .addGroup(layout.createSequentialGroup()
-                                                    .addComponent(btn51, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                    .addComponent(btn52, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                    .addComponent(btn53, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                            .addGap(6, 6, 6)
+                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                        .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                                            .addGap(362, 362, 362)
                                             .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                                .addGroup(layout.createSequentialGroup()
-                                                    .addComponent(btn44, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                    .addGap(214, 214, 214)
-                                                    .addComponent(btn49, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                                    .addComponent(btn50, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                                .addGroup(layout.createSequentialGroup()
+                                                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                                                    .addComponent(btn58, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn59, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn60, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                                                    .addComponent(btn68, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn69, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn70, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                            .addGap(14, 14, 14))
+                                        .addGroup(layout.createSequentialGroup()
+                                            .addGap(412, 412, 412)
+                                            .addComponent(btn39, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                            .addGap(64, 64, 64)))
+                                    .addGroup(layout.createSequentialGroup()
+                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                            .addGroup(layout.createSequentialGroup()
+                                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addComponent(btn11, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn12, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn13, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                        .addComponent(btn14, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn15, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addComponent(btn21, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn22, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn23, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                        .addComponent(btn24, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                        .addComponent(btn25, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                        .addComponent(btn16, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                        .addComponent(btn17, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
                                                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                                                         .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
-                                                            .addComponent(btn64, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                            .addComponent(btn65, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                                        .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
-                                                            .addComponent(btn54, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addGap(8, 8, 8)
-                                                            .addComponent(btn55, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                                            .addComponent(btn26, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                            .addComponent(btn27, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                        .addGroup(layout.createSequentialGroup()
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                                                .addComponent(btn37, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addComponent(btn47, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addComponent(btn57, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addComponent(btn67, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn18, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn19, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn20, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                                            .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
+                                                                .addGap(8, 8, 8)
+                                                                .addComponent(btn28, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                            .addGroup(layout.createSequentialGroup()
+                                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                                                    .addComponent(btn38, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                    .addComponent(btn48, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                                                            .addGroup(layout.createSequentialGroup()
+                                                                .addComponent(btn49, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                                .addComponent(btn50, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                                                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                                                .addComponent(btn40, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addGroup(layout.createSequentialGroup()
+                                                                    .addComponent(btn29, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                                    .addComponent(btn30, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)))))))
+                                            .addGroup(layout.createSequentialGroup()
+                                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addComponent(btn41, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn42, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn43, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                                        .addComponent(btn44, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addComponent(btn31, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn32, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                        .addComponent(btn33, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                        .addComponent(btn34, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                                            .addComponent(btn51, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn61, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                            .addGroup(layout.createSequentialGroup()
+                                                                .addGap(6, 6, 6)
+                                                                .addComponent(btn52, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                                .addComponent(btn53, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                                .addComponent(btn54, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                            .addGroup(layout.createSequentialGroup()
+                                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                                .addComponent(btn62, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                                .addComponent(btn63, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                                                .addComponent(btn64, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addGap(8, 8, 8)
+                                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                                .addComponent(btn45, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addComponent(btn35, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                            .addComponent(btn55, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                                                        .addGap(10, 10, 10)
+                                                        .addComponent(btn65, javax.swing.GroupLayout.PREFERRED_SIZE, 38, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                                        .addGroup(layout.createSequentialGroup()
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                            .addComponent(btn56, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                        .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
+                                                            .addGap(10, 10, 10)
+                                                            .addComponent(btn46, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                                    .addGroup(layout.createSequentialGroup()
+                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                                            .addComponent(btn36, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                                                                .addComponent(btn66, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                                .addGap(50, 50, 50))))))
+                                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                                .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
+                                                    .addComponent(btn91, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn92, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn93, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn94, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn95, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                     .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                    .addComponent(btn96, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                    .addComponent(btn97, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn98, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                    .addComponent(btn99, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                    .addComponent(btn100, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                .addGroup(layout.createSequentialGroup()
                                                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                                         .addGroup(layout.createSequentialGroup()
-                                                            .addComponent(btn56, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn71, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                            .addComponent(btn57, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn72, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                            .addComponent(btn58, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn73, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                            .addComponent(btn59, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn74, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                            .addComponent(btn75, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                                            .addComponent(btn60, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                                            .addComponent(btn76, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addGap(14, 14, 14)
+                                                            .addComponent(btn77, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                            .addComponent(btn78, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                            .addComponent(btn79, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                            .addComponent(btn80, javax.swing.GroupLayout.PREFERRED_SIZE, 46, javax.swing.GroupLayout.PREFERRED_SIZE))
                                                         .addGroup(layout.createSequentialGroup()
-                                                            .addComponent(btn66, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn81, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                            .addComponent(btn67, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn82, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                            .addComponent(btn68, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn83, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                            .addComponent(btn69, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addComponent(btn84, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                            .addComponent(btn85, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                             .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                                            .addComponent(btn70, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)))))))
-                                    .addGroup(layout.createSequentialGroup()
-                                        .addComponent(btn91, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn92, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn93, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn94, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn95, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn96, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn97, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn98, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn99, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(btn100, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                .addGap(158, 158, 158)
-                                .addComponent(txtNhap)
-                                .addGap(18, 18, 18)
-                                .addComponent(btnNhap)))
-                        .addContainerGap())
+                                                            .addComponent(btn86, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                            .addComponent(btn87, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                            .addComponent(btn88, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                            .addComponent(btn89, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                                            .addComponent(btn90, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                                    .addGap(4, 4, 4))))
+                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                                    .addComponent(txtNhap)
+                                    .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 248, Short.MAX_VALUE))))
+                        .addGap(18, 18, 18)
+                        .addComponent(btnNhap)
+                        .addGap(88, 88, 88))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addGap(0, 0, Short.MAX_VALUE)
                         .addComponent(btnMay, javax.swing.GroupLayout.PREFERRED_SIZE, 129, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1070,16 +1091,16 @@ public class BanCo extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
-                            .addComponent(btn37, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 41, Short.MAX_VALUE)
-                            .addComponent(btn38, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(btn38, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 41, Short.MAX_VALUE)
                             .addComponent(btn39, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                             .addComponent(btn40, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                         .addComponent(btn31, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addComponent(btn32, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addComponent(btn33, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(btn34, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(btn35, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addComponent(btn36, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addComponent(btn34, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(btn36, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(btn37, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(btn35, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
@@ -1154,15 +1175,15 @@ public class BanCo extends javax.swing.JFrame {
                             .addComponent(btn97, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(btn98, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(btn99, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(btn100, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                            .addComponent(btn100, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)))
                     .addGroup(layout.createSequentialGroup()
+                        .addGap(0, 0, Short.MAX_VALUE)
                         .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 256, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 8, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(btnNhap)
                             .addComponent(txtNhap, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                .addGap(81, 81, 81)
+                .addGap(91, 91, 91)
                 .addComponent(btnMay, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(84, 84, 84))
         );
@@ -1206,7 +1227,7 @@ public class BanCo extends javax.swing.JFrame {
         // TODO add your handling code here:
         try {
             // TODO add your handling code here:
-            output.writeUTF("g1 0");
+            output.writeUTF("g0 3");
             
             //btn4.setText("X");
         } catch (IOException ex) {
@@ -1218,7 +1239,7 @@ public class BanCo extends javax.swing.JFrame {
         // TODO add your handling code here:
         try {
             // TODO add your handling code here:
-            output.writeUTF("g1 1");
+            output.writeUTF("g0 4");
             //btn5.setText("X");
         } catch (IOException ex) {
             Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
@@ -1229,7 +1250,7 @@ public class BanCo extends javax.swing.JFrame {
         // TODO add your handling code here:
         try {
             // TODO add your handling code here:
-            output.writeUTF("g1 2");
+            output.writeUTF("g0 5");
             //btn6.setText("X");
         } catch (IOException ex) {
             Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
@@ -1240,7 +1261,7 @@ public class BanCo extends javax.swing.JFrame {
         // TODO add your handling code here:
         try {
             // TODO add your handling code here:
-            output.writeUTF("g2 1");
+            output.writeUTF("g0 7");
             //btn8.setText("");
         } catch (IOException ex) {
             Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
@@ -1251,7 +1272,7 @@ public class BanCo extends javax.swing.JFrame {
         // TODO add your handling code here:
         try {
             // TODO add your handling code here:
-            output.writeUTF("g2 2");
+            output.writeUTF("g0 8");
             //btn9.setText("");
         } catch (IOException ex) {
             Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
@@ -1280,366 +1301,1003 @@ public class BanCo extends javax.swing.JFrame {
 
     private void btn13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn13ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn13ActionPerformed
 
     private void btn14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn14ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn14ActionPerformed
 
     private void btn7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn7ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g0 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn7ActionPerformed
 
     private void btn16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn16ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn16ActionPerformed
 
     private void btn17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn17ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn17ActionPerformed
 
     private void btn18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn18ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn18ActionPerformed
 
     private void btn19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn19ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn19ActionPerformed
 
     private void btn20ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn20ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn20ActionPerformed
 
     private void btn21ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn21ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn21ActionPerformed
 
     private void btn22ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn22ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn22ActionPerformed
 
     private void btn23ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn23ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn23ActionPerformed
 
     private void btn24ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn24ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn24ActionPerformed
 
     private void btn10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn10ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g0 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn10ActionPerformed
 
     private void btn25ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn25ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn25ActionPerformed
 
     private void btn11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn11ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn11ActionPerformed
 
     private void btn12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn12ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn12ActionPerformed
 
     private void btn26ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn26ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn26ActionPerformed
 
     private void btn27ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn27ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn27ActionPerformed
 
     private void btn28ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn28ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn28ActionPerformed
 
     private void btn29ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn29ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn29ActionPerformed
 
     private void btn30ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn30ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g2 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn30ActionPerformed
 
     private void btn31ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn31ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn31ActionPerformed
 
     private void btn32ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn32ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn32ActionPerformed
 
     private void btn33ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn33ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn33ActionPerformed
 
     private void btn34ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn34ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn34ActionPerformed
 
     private void btn35ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn35ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn35ActionPerformed
 
     private void btn36ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn36ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn36ActionPerformed
 
     private void btn37ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn37ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn37ActionPerformed
 
     private void btn38ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn38ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn38ActionPerformed
 
     private void btn39ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn39ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn39ActionPerformed
 
     private void btn40ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn40ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g3 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn40ActionPerformed
 
     private void btn41ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn41ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn41ActionPerformed
 
     private void btn42ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn42ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn42ActionPerformed
 
     private void btn43ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn43ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn43ActionPerformed
 
     private void btn44ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn44ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn44ActionPerformed
 
     private void btn45ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn45ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn45ActionPerformed
 
     private void btn46ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn46ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn46ActionPerformed
 
     private void btn47ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn47ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn47ActionPerformed
 
     private void btn48ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn48ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn48ActionPerformed
 
     private void btn49ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn49ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn49ActionPerformed
 
     private void btn50ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn50ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g4 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn50ActionPerformed
 
     private void btn51ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn51ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn51ActionPerformed
 
     private void btn52ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn52ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn52ActionPerformed
 
     private void btn53ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn53ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn53ActionPerformed
 
     private void btn54ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn54ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn54ActionPerformed
 
     private void btn55ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn55ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn55ActionPerformed
 
     private void btn56ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn56ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn56ActionPerformed
 
     private void btn57ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn57ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn57ActionPerformed
 
     private void btn58ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn58ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn58ActionPerformed
 
     private void btn59ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn59ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn59ActionPerformed
 
     private void btn60ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn60ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g5 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn60ActionPerformed
 
     private void btn61ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn61ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn61ActionPerformed
 
     private void btn62ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn62ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn62ActionPerformed
 
     private void btn63ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn63ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn63ActionPerformed
 
     private void btn64ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn64ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn64ActionPerformed
 
     private void btn65ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn65ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn65ActionPerformed
 
     private void btn66ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn66ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn66ActionPerformed
 
     private void btn67ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn67ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn67ActionPerformed
 
     private void btn68ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn68ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn68ActionPerformed
 
     private void btn69ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn69ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn69ActionPerformed
 
     private void btn70ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn70ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g6 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn70ActionPerformed
 
     private void btn71ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn71ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn71ActionPerformed
 
     private void btn72ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn72ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn72ActionPerformed
 
     private void btn73ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn73ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn73ActionPerformed
 
     private void btn74ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn74ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn74ActionPerformed
 
     private void btn75ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn75ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn75ActionPerformed
 
     private void btn76ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn76ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn76ActionPerformed
 
     private void btn77ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn77ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn77ActionPerformed
 
     private void btn78ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn78ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn78ActionPerformed
 
     private void btn79ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn79ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn79ActionPerformed
 
     private void btn80ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn80ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g7 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn80ActionPerformed
 
     private void btn81ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn81ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn81ActionPerformed
 
     private void btn82ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn82ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn82ActionPerformed
 
     private void btn83ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn83ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn83ActionPerformed
 
     private void btn84ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn84ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn84ActionPerformed
 
     private void btn85ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn85ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn85ActionPerformed
 
     private void btn86ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn86ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn86ActionPerformed
 
     private void btn87ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn87ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn87ActionPerformed
 
     private void btn88ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn88ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn88ActionPerformed
 
     private void btn89ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn89ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn89ActionPerformed
 
     private void btn90ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn90ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g8 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn90ActionPerformed
 
     private void btn91ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn91ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 0");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn91ActionPerformed
 
     private void btn92ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn92ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 1");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn92ActionPerformed
 
     private void btn93ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn93ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 2");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn93ActionPerformed
 
     private void btn94ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn94ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 3");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn94ActionPerformed
 
     private void btn95ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn95ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn95ActionPerformed
 
     private void btn96ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn96ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 5");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn96ActionPerformed
 
     private void btn97ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn97ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 6");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn97ActionPerformed
 
     private void btn98ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn98ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 7");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn98ActionPerformed
 
     private void btn99ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn99ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 8");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn99ActionPerformed
 
     private void btn100ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn100ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g9 9");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn100ActionPerformed
 
     private void txtNhapActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtNhapActionPerformed
@@ -1648,6 +2306,13 @@ public class BanCo extends javax.swing.JFrame {
 
     private void btn15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn15ActionPerformed
         // TODO add your handling code here:
+        try {
+            // TODO add your handling code here:
+            output.writeUTF("g1 4");
+            //btn8.setText("");
+        } catch (IOException ex) {
+            Logger.getLogger(BanCo.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btn15ActionPerformed
 
     /**
@@ -1768,7 +2433,7 @@ public class BanCo extends javax.swing.JFrame {
                 case 6 : btn77.setBackground(t);break;
                 case 7 : btn78.setBackground(t);break;
                 case 8 : btn79.setBackground(t);break;
-                case 9 : btn70.setBackground(t);break;
+                case 9 : btn80.setBackground(t);break;
             }
         }
         if(hang == 8){
