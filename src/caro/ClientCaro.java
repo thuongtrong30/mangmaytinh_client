@@ -82,24 +82,24 @@ public class ClientCaro extends JFrame implements ActionListener{
                                 }
                                 if(input.charAt(0)=='w'){
                                     JOptionPane.showMessageDialog(null,"Thắng");
-                                    for(int i = 0 ; i < 3 ; i++){
-                                        for(int j = 0; j <3 ; j++){
+                                    for(int i = 0 ; i < 10 ; i++){
+                                        for(int j = 0; j <10 ; j++){
                                             bc.truyen(i,j,Color.white);
                                         }
                                     }
                                 }
                                 if(input.charAt(0)=='l'){
                                     JOptionPane.showMessageDialog(null,"Thua");
-                                    for(int i = 0 ; i < 3 ; i++){
-                                        for(int j = 0; j <3 ; j++){
+                                    for(int i = 0 ; i < 10 ; i++){
+                                        for(int j = 0; j <10 ; j++){
                                             bc.truyen(i,j,Color.white);
                                         }
                                     }
                                 }
                                 if(input.charAt(0)=='o'){
                                     JOptionPane.showMessageDialog(null, "Đối thủ đã out");
-                                    for(int i = 0 ; i < 3 ; i++){
-                                        for(int j = 0; j <3 ; j++){
+                                    for(int i = 0 ; i < 10 ; i++){
+                                        for(int j = 0; j <10 ; j++){
                                             bc.truyen(i,j,Color.white);
                                         }
                                     }
@@ -107,8 +107,8 @@ public class ClientCaro extends JFrame implements ActionListener{
                                 }
                                 if(input.charAt(0)=='d'){
                                     JOptionPane.showMessageDialog(null, "Hòa!Ván mới!!");
-                                    for(int i = 0 ; i < 3 ; i++){
-                                        for(int j = 0; j <3 ; j++){
+                                    for(int i = 0 ; i < 10 ; i++){
+                                        for(int j = 0; j <10 ; j++){
                                             bc.truyen(i,j,Color.white);
                                         }
                                     }
